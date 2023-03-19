@@ -4,15 +4,11 @@
 
     <application
         android:allowBackup="true"
-<<<<<<< HEAD
+
         android:icon="@drawable/gamep"
         android:label="@string/app_name"
         android:roundIcon="@drawable/gamep"
-=======
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
->>>>>>> daa283d76ca89673d2f5a3d615a73b6c43ca8046
+
         android:supportsRtl="true"
         android:theme="@style/Theme.OlamidesAndriodLab">
         <activity
